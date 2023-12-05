@@ -1,8 +1,8 @@
-<div align="justify">
 # Proyecto de BBDD de 1 DAW
+<div align="justify">
 
 ## Autores
--[Jose](https://github.com/JVC0)
--[Joseph](https://github.com/jpprguezz)
+-[José Manuel Peña Rodríguez](https://github.com/jpprguezz)
+-[Joseph Vanegas Caicedo](https://github.com/JVC0)
 ## Indice
-- [modelo](https://github.com/jpprguezz/jpprguezz)
+- [Modelo](https://github.com/jpprguezz/jpprguezz)
