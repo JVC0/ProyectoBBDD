@@ -6,8 +6,10 @@
  - [Joseph Vanegas Caicedo](https://github.com/JVC0)
 ## Indice
 - [Modelo ER]()
+
 - [Modelo Relacional]()
-- [Normalización]
+
+- [Normalización]()
     - [Normalización 1]()
     - [Normalización 2]()
     - [Normalización 3]() 
