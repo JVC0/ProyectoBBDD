@@ -4,6 +4,10 @@
 ## Autores
  - [José Manuel Peña Rodríguez](https://github.com/jpprguezz)
  - [Joseph Vanegas Caicedo](https://github.com/JVC0)
+
+## Introducción
+En este trabajo realizaremos a través de GitHub, el modelo Entidad Relación, el Modelo Relacional, y los cuatro tipos de Normalizaciones de una Universidad la cual desea gestionar su información.
+
 ## Indice
 - [Modelo ER](https://github.com/JVC0/ProyectoBBDD/tree/main/modelo-er)
 
