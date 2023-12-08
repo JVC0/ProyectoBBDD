@@ -5,4 +5,10 @@
  - [José Manuel Peña Rodríguez](https://github.com/jpprguezz)
  - [Joseph Vanegas Caicedo](https://github.com/JVC0)
 ## Indice
-- [Modelo](https://github.com/jpprguezz/jpprguezz)
+- [Modelo ER]()
+- [Modelo Relacional]()
+- [Normalización]
+    - [Normalización 1]()
+    - [Normalización 2]()
+    - [Normalización 3]() 
+    - [Normalización 4]()
