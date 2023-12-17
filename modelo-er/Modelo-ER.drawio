@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-12-17T12:02:29.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="55b0ng8__B6cTjGttTMp" version="22.1.11" type="github">
+  <diagram name="Página-1" id="ZtcjJhScZA-LNXaZbVv9">
+    <mxGraphModel dx="613" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nusu15zQe6GEeRLL8esK-1" value="Estudiantes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-3" value="Profesores" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-4" value="Cursos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-5" value="Asignaturas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-6" value="Aulas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-7" value="Departamentos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-8" value="Programas Académicos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-9" value="Matrículas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-10" value="Notas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-11" value="Eventos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-12" value="Becas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-13" value="Biblioteca" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-14" value="Instalaciones Deportivas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-15" value="Empleados Administrativos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nusu15zQe6GEeRLL8esK-16" value="Empresas Asociadas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
