@@ -1,3 +1,3 @@
 # Modelo Entidad Relacion 
 <!DOCTYPE html>
-<img src="images/Modelo-ER.drawio.png" style="background-color: white;">
+<div style="background-color: white;"> <img src="mages/Modelo-ER.drawio.png" alt="Modelo-ER"> </div>
