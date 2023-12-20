@@ -12,7 +12,7 @@
 
 - [Normalización](https://github.com/JVC0/ProyectoBBDD/tree/main/normalización)
     - [1º Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizaci%C3%B3n/1%C2%BAFormaNormal/1%C2%BAFormaNormal.drawio.png)
-    - [2º Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizaci%C3%B3n/2%C2%BAFormaNormal/2%C2%BA%20Forma%20Normal.png)
+    - [2º Forma Normal]([https://github.com/JVC0/ProyectoBBDD/blob/main/normalizaci%C3%B3n/2%C2%BAFormaNormal/2%C2%BA%20Forma%20Normal.png](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizaci%C3%B3n/2%C2%BAFormaNormal/2%C2%BA%20Forma%20Normal.png))
     - [3º Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizaci%C3%B3n/3%C2%BAFormaNormal) 
     - [4º Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizaci%C3%B3n/4%C2%BAFormaNormal)
 ## Aplicaciones utilizadas en este proyecto 
