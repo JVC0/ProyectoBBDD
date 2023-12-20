@@ -14,7 +14,7 @@ En este trabajo realizaremos a través de GitHub, el modelo Entidad Relación, e
 - [Modelo Relacional](https://github.com/JVC0/ProyectoBBDD/tree/main/modelo-mr)
 
 - [Normalización](https://github.com/JVC0/ProyectoBBDD/tree/main/normalización)
-    - [Normalización 1]()
-    - [Normalización 2]()
-    - [Normalización 3]() 
-    - [Normalización 4]()
+    - [Normalización 1](1ºFormaNormal)
+    - [Normalización 2](2ºFormaNormal)
+    - [Normalización 3](3ºFormaNormal) 
+    - [Normalización 4](4ºFormaNormal)
