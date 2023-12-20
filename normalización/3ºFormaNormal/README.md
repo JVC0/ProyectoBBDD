@@ -1,0 +1,1 @@
+<img src="normalización\1ºFormaNormal\3ºFormaNormal.drawio.png"> 

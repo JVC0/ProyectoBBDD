@@ -1,1 +1,1 @@
-<img src="normalización\images\1ºFormaNormal.drawio.png" width="65%"> 
+<img src="normalización\1ºFormaNormal\1ºFormaNormal.drawio.png"> 
