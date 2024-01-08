@@ -1,4 +1,4 @@
-# Crecion de tablas con Sqlite 3
+# Creación de tablas con SQLite 3
 
 
 
