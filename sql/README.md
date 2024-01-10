@@ -52,7 +52,7 @@ Y con el comando insert introducimos el resto de datos
 +-------------+----------------+
 ```
 ### Tabla Estudiantes
-```
+```sql
 CREATE TABLE Estudiantes (
     DNI_Estudiante TEXT NOT NULL PRIMARY KEY,
     Nombre_Estudiante TEXT NOT NULL,
