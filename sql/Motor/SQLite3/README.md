@@ -1,4 +1,4 @@
-# Crecion de tablas con Sqlite 3.
+# Creación de tablas con Sqlite 3.
 
 ### Creamos la tabla Profesores utilizando el comando CREATE TABLE
 #### Colocamos NOT NULL en todas las tablas ya que no hay un apartado en la table que este vacio.  
