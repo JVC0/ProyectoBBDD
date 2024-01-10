@@ -29,7 +29,7 @@ VALUES ( '1', 'Doe',
 ```
 
 
-### Creacion de la Tabla Tiene .
+### Creación de la Tabla Tiene .
 
 ```sql
 create table tiene(
@@ -52,7 +52,7 @@ VALUES ( '23467664H', '1' );
 | 5           | 78654901K      |
 +-------------+----------------+
 ```
-### Creacion de la tabla Estudiantes.
+### Creación de la tabla Estudiantes.
 ```sql
 CREATE TABLE Estudiantes (
     DNI_Estudiante TEXT NOT NULL PRIMARY KEY,
@@ -75,7 +75,7 @@ VALUES ( '23467664H', 'John', 'Dou' );
 +----------------+-------------------+----------------------+
 ```
 
-### Creacion de tabla pertenece.
+### Creación de tabla pertenece.
 ```sql
 create table pertenece(
 ID_Email  text	references Email(ID),
@@ -99,7 +99,7 @@ Insert into pertenece (ID_email,DNI_Estudiante ) values(687,'23467664H');
 | 3889     | 78654901K      |
 +----------+----------------+
 ```
-### Creacion de tabla email.
+### Creación de tabla email.
 ```sql
 create table email (
 	ID  integer NOT NULL PRIMARY KEY,
@@ -146,7 +146,7 @@ Insert into posee (ID_Direccion, DNI_Estudiante) values(12,78654901K);
 | 12           | 78654901K      |
 +--------------+----------------+
 ```
-### Creacion de tabla Direccion.
+### Creación de tabla Direccion.
 ```sql
 create table Direccion (
 	ID  integer NOT NULL PRIMARY KEY,
