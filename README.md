@@ -11,10 +11,10 @@
 - [Modelo Relacional](https://github.com/JVC0/ProyectoBBDD/tree/main/modelo-mr)
 
 - [Normalización](https://github.com/JVC0/ProyectoBBDD/tree/main/normalización)
-    - [1º Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizaci%C3%B3n/1%C2%BAFormaNormal/1%C2%BAFormaNormal.drawio.png)
-    - [2º Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizaci%C3%B3n/2%C2%BAFormaNormal/2%C2%BAFormaNormal.drawio.png)
-    - [3º Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizaci%C3%B3n/3%C2%BAFormaNormal) 
-    - [4º Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizaci%C3%B3n/4%C2%BAFormaNormal)
+    - [1 Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizacion/1FormaNormal/1FormaNormal.drawio.png)
+    - [2 Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizacion/2FormaNormal/2FormaNormal.drawio.png)
+    - [3 Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizacion/3FormaNormal) 
+    - [4 Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizacion/4FormaNormal)
 
 - [SQL](https://github.com/JVC0/ProyectoBBDD/tree/main/sql/Motor/SQLite3)
 ## Aplicaciones utilizadas en este proyecto 
