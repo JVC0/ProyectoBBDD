@@ -10,7 +10,7 @@
 
 - [Modelo Relacional](https://github.com/JVC0/ProyectoBBDD/tree/main/modelo-mr)
 
-- [Normalización](https://github.com/JVC0/ProyectoBBDD/tree/main/normalización)
+- [Normalización](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizacion)
     - [1 Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizacion/1FormaNormal/1FormaNormal.drawio.png)
     - [2 Forma Normal](https://github.com/JVC0/ProyectoBBDD/blob/main/normalizacion/2FormaNormal/2FormaNormal.drawio.png)
     - [3 Forma Normal](https://github.com/JVC0/ProyectoBBDD/tree/main/normalizacion/3FormaNormal) 
